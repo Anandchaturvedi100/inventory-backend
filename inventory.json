@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1787417771661,
+    "name": "iphone",
+    "category": "mobile",
+    "location_rack": "center box ",
+    "quantity": 12,
+    "min_quantity": 4,
+    "unit": "pcs",
+    "selling_price": 0,
+    "cost_price": 0,
+    "image_url": "http://localhost:5000/uploads/1787417771653-i_phone.webp",
+    "created_at": "2026-08-22T16:56:11.661Z"
+  },
+  {
+    "id": 1787417491580,
+    "name": "star screwdriver",
+    "category": "screwdriver",
+    "location_rack": "upper box",
+    "quantity": 5,
+    "min_quantity": 5,
+    "unit": "pcs",
+    "selling_price": 0,
+    "cost_price": 0,
+    "image_url": "http://localhost:5000/uploads/1787417491570-skrudriver.webp",
+    "created_at": "2026-08-22T16:51:31.580Z"
+  },
+  {
+    "id": 1787417309785,
+    "name": "oppo mobile",
+    "category": "mobile",
+    "location_rack": "center box ",
+    "quantity": -11,
+    "min_quantity": 6,
+    "unit": "pcs",
+    "selling_price": 0,
+    "cost_price": 0,
+    "image_url": "http://localhost:5000/uploads/1787417309774-oppo_image.jpg",
+    "created_at": "2026-08-22T16:48:29.785Z"
+  }
+]
